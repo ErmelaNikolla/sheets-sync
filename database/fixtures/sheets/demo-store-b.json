@@ -1,0 +1,14 @@
+{
+    "title": "Store B - Sales export",
+    "tabs": {
+        "Orders": [
+            ["Store B - October export"],
+            ["Region", "Product Name", "Order ID", "Amount", "Date", "Price", "Discount"],
+            ["North", "Pen", "B-2001", "1,200", "14/10/2026", "1.10", "5%"],
+            ["South", "Notebook", "B-2002", "30", "14/10/2026", "3.40", ""],
+            ["North", "Marker", "B-2003", "n/a", "15/10/2026", "2.00", "10%"],
+            ["", "Scissors", "", "4", "15/10/2026", "4.50"],
+            ["West", "Glue", "B-2004", "6", "16/10/2026"]
+        ]
+    }
+}

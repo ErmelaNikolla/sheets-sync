@@ -1,0 +1,23 @@
+{
+    "title": "Store A - Sales 2026",
+    "tabs": {
+        "Sales": [
+            ["order_id", "date", "product_name", "price", "amount"],
+            ["A-1001", 46309, "Notebook", 3.5, 10],
+            ["A-1002", 46309, "Pen", 1.2, 25],
+            ["A-1003", 46310, "Stapler", 7.99, 3],
+            [],
+            ["A-1004", 46311, "Marker", 2.1, 12],
+            ["A-1005", 46311, "Paper A4", 5.49, 40]
+        ],
+        "Stock": [
+            ["SKU", "Product", "Warehouse", "Qty"],
+            ["NB-01", "Notebook", "Tirana", 120],
+            ["PN-01", "Pen", "Tirana", 800],
+            ["ST-01", "Stapler", "Durres", 35]
+        ],
+        "Notes": [
+            ["This tab is not configured and is ignored"]
+        ]
+    }
+}
